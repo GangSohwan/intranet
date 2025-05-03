@@ -1,0 +1,13 @@
+Flask
+Flask-WTF
+Flask-SQLAlchemy
+email-validator
+WTForms
+pandas
+openpyxl
+
+Flask
+Werkzeug
+flask-wtf
+wtforms
+pandas
