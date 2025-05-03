@@ -11,3 +11,4 @@ Werkzeug
 flask-wtf
 wtforms
 pandas
+gunicorn
